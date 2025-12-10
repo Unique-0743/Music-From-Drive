@@ -30,5 +30,6 @@ Install dependencies before running:
 
 ```bash
 npm install
-
-![Demo Video](demo.mp4)
+```
+### Here's the demo video of the application
+![Demo Video](Demo.mp4)
