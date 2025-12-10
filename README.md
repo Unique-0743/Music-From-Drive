@@ -32,4 +32,4 @@ Install dependencies before running:
 npm install
 ```
 ### Here's the demo video of the application
-![Demo Video](Demo.mp4)
+![Demo Video](https://drive.google.com/file/d/1543O5VSf89czJ9AZoY_p2Tcm6jsN9re8/view?usp=sharing)
