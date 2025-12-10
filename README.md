@@ -31,5 +31,6 @@ Install dependencies before running:
 ```bash
 npm install
 ```
-### Here's the demo video of the application
-![Demo Video](https://drive.google.com/file/d/1543O5VSf89czJ9AZoY_p2Tcm6jsN9re8/view?usp=sharing)
+### Here are some pictures showcasing my App UI
+
+<table> <tr> <td><img src="Project-Pics/img1.jpg" width="250"/></td> <td><img src="Project-Pics/img2.jpg" width="250"/></td> <td><img src="Project-Pics/img3.jpg" width="250"/></td> </tr> <tr> <td><img src="Project-Pics/img4.jpg" width="250"/></td> <td><img src="Project-Pics/img5.jpg" width="250"/></td> <td><img src="Project-Pics/img6.jpg" width="250"/></td> </tr> </table>
