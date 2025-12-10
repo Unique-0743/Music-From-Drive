@@ -1,0 +1,6 @@
+first add those front end files in vscode and install all dependencies simultaneously configure 
+the google Auth Client and get the key variables like client id ,client secret,refresh token, access token. 
+another important thing is to organize the google drive correctly create a Music Folder in that create seperate folder for each genre and note those folder Ids.
+Next add the things that are required in the frontend code.
+One thing will be missing then that is server url for that go to vercel and create a project folder in that open a subfolder named "api".
+In that api folder add .env file,server.js, vercel.json as i created api folder in that backend folder refer it .
