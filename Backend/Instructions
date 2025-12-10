@@ -4,3 +4,4 @@ another important thing is to organize the google drive correctly create a Music
 Next add the things that are required in the frontend code.
 One thing will be missing then that is server url for that go to vercel and create a project folder in that open a subfolder named "api".
 In that api folder add .env file,server.js, vercel.json as i created api folder in that backend folder refer it .
+one more thing in the vercel project add the environment variables such as client id, client secret, refresh token, access token, frontendurl and all.
